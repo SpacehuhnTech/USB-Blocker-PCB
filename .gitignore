@@ -27,6 +27,8 @@ fp-info-cache
 
 *.DS_Store
 
-USB-Data-Blocker/USB-Data-Blocker-backups/
+USB-Data-Blocker/USB-Data-Blocker-backups/*
+USB-Data-Blocker/USB-Data-Blocker-Panel-backups/*
 
-USB-Power-Blocker/USB-Power-Blocker-Panel-backups/
+USB-Power-Blocker/USB-Power-Blocker-backups/*
+USB-Power-Blocker/USB-Power-Blocker-Panel-backups/*
