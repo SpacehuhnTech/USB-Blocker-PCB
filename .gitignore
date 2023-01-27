@@ -26,3 +26,7 @@ fp-info-cache
 *.csv
 
 *.DS_Store
+
+USB-Data-Blocker/USB-Data-Blocker-backups/
+
+USB-Power-Blocker/USB-Power-Blocker-Panel-backups/
